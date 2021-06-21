@@ -12,7 +12,7 @@
       ]
     },
     {
-      "source": "/fonts/Inter-Italic.woff2",
+      "source": "/fonts/Inter-italic.var.woff2",
       "headers": [
         {
           "key": "Cache-Control",
