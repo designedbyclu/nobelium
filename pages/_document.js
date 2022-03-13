@@ -37,14 +37,14 @@ class MyDocument extends Document {
             <>
               <link
                 rel="preload"
-                href="/fonts/IBMPlexSansVar-Roman.woff2"
+                href="/fonts/Inter-roman.var.woff2"
                 as="font"
                 type="font/woff2"
                 crossOrigin="anonymous"
               />
               <link
                 rel="preload"
-                href="/fonts/IBMPlexSansVar-Italic.woff2"
+                href="/fonts/Inter-italic.var.woff2"
                 as="font"
                 type="font/woff2"
                 crossOrigin="anonymous"
