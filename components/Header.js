@@ -70,32 +70,20 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title}>
               <div className="h-6">
-                <svg
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
+                                <svg
+                  width="44"
+                  height="38"
+                  viewBox="0 0 68 58"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
                 >
-                  <rect
-                    width="24"
-                    height="24"
+                  <path
+                    fillRule="evenodd"
+                    clipRule="evenodd"
+                    d="M15.3874 1.59015C15.6729 1.21779 16.1119 1 16.5769 1H51.3002C51.8536 1 52.3624 1.30762 52.6257 1.80133L66.8184 28.4126C67.0582 28.8621 67.0607 29.4035 66.825 29.8553L53.0931 56.1861C52.832 56.6868 52.3194 57 51.761 57H16.5769C16.024 57 15.5155 56.6928 15.252 56.1997L1.18217 29.8689C0.940919 29.4174 0.939189 28.8732 1.17757 28.4202L15.0324 2.08938C15.0728 2.01254 15.1197 1.93933 15.1723 1.87059L15.3874 1.59015ZM5.03033 27.5914L16.3649 6.05027L27.7291 27.5489H16.3619C12.5333 27.5489 9.12014 27.5645 6.66404 27.5801C6.05865 27.584 5.5114 27.5878 5.03033 27.5914ZM16.5577 52.2271L5.02779 30.6495C5.51783 30.6459 6.0776 30.6419 6.69822 30.638C9.15079 30.6225 12.5535 30.607 16.3619 30.6069H27.7826L16.5577 52.2271ZM50.8534 53.942H19.074L31.189 30.6073L62.9912 30.668L50.8534 53.942ZM62.9633 27.61L31.1494 27.5493L18.7319 4.05795H50.4022L62.9633 27.61Z"
                     className="fill-current text-black dark:text-white"
+                    strokeMiterlimit="10"
                   />
-                  <rect width="24" height="24" fill="url(#paint0_radial)" />
-                  <defs>
-                    <radialGradient
-                      id="paint0_radial"
-                      cx="0"
-                      cy="0"
-                      r="1"
-                      gradientUnits="userSpaceOnUse"
-                      gradientTransform="rotate(45) scale(39.598)"
-                    >
-                      <stop stopColor="#CFCFCF" stopOpacity="0.6" />
-                      <stop offset="1" stopColor="#E9E9E9" stopOpacity="0" />
-                    </radialGradient>
-                  </defs>
                 </svg>
               </div>
             </a>
