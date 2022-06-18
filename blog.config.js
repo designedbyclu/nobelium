@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'Whitesspace',
   author: 'Clu Soh',
-  email: 'i@clu.so',
-  link: 'https://nobelium.vercel.app',
+  email: 'i@clu.thexclu',
+  link: 'https://clu.so',
   description: 'A Blog and Site about CLU thoughts and recording my experience that worth to share.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
